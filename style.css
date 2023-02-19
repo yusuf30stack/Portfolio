@@ -1,0 +1,25 @@
+body{
+    font-family: sans-serif;
+    background-color: rgba(182, 198, 205, 0.5);
+}
+p{
+    color: black;
+    font-weight: bold;
+    text-align: right;
+}
+a{
+
+    color: tomato;  
+    -webkit-text-fill-color: tomato;
+}
+
+header{
+    text-align: center;
+    font-weight: bolder;
+    font-size: 15px;
+}
+li{
+    text-align: right;
+    color:tomato;
+    list-style: none;
+}
